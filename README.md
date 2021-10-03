@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Eu sou André Santos 👋
 
 
 - 🔭 Atualmente trabalho com Back-end(PHP && MySQL)
