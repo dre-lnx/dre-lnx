@@ -1,4 +1,4 @@
-### Olá, Eu Sou André Santos 👋
+### Olá, Eu Sou André Dos Santos 👋
 
 
 - 🔭 Atualmente trabalho como Fullstack
