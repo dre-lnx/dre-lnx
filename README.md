@@ -1,4 +1,4 @@
-### Olá, Eu Sou André Dos Santos 👋
+### Olá, Eu Sou André Lewinski 👋
 
 
 - 🔭 Atualmente trabalho como desenvolvedor Fullstack
